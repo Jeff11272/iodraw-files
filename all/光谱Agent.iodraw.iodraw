@@ -66,7 +66,10 @@
           <mxGeometry x="939" y="261.75" width="120" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="8xvaXQiKNwctdLaHBRs3-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;Spectral Features&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="277" width="132" height="68" as="geometry" />
+          <mxGeometry x="1100" y="267" width="132" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="8xvaXQiKNwctdLaHBRs3-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;Spectral Features&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="277" width="132" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
