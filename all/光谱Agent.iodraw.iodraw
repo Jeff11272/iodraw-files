@@ -109,8 +109,8 @@
         <mxCell id="fFbD23ZSA7rLbQYlxb_0-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="181.5" y="398.5" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFbD23ZSA7rLbQYlxb_0-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Anomaly Detection&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="158.5" y="538" width="132" height="35" as="geometry" />
+        <mxCell id="fFbD23ZSA7rLbQYlxb_0-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Regression&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="164" y="543" width="132" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
