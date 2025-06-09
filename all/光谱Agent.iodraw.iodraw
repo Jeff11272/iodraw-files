@@ -16,8 +16,8 @@
         <mxCell id="fFbD23ZSA7rLbQYlxb_0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8xvaXQiKNwctdLaHBRs3-4" target="8xvaXQiKNwctdLaHBRs3-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="65" y="551" />
-              <mxPoint x="800" y="551" />
+              <mxPoint x="65" y="592" />
+              <mxPoint x="800" y="592" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -84,7 +84,7 @@
           <mxGeometry x="354" y="461.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8xvaXQiKNwctdLaHBRs3-32" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Outputs&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Classification;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Anormaly Detection;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Regression&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="182" y="382" width="132" height="143.75" as="geometry" />
+          <mxGeometry x="176" y="419.87" width="144" height="143.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
