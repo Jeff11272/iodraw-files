@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8xvaXQiKNwctdLaHBRs3-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;Spectral Features&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="519" width="132" height="68" as="geometry" />
+          <mxGeometry x="1100" y="267" width="132" height="68" as="geometry" />
         </mxCell>
         <mxCell id="8xvaXQiKNwctdLaHBRs3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8xvaXQiKNwctdLaHBRs3-30" target="8xvaXQiKNwctdLaHBRs3-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
